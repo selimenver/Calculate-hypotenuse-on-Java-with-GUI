@@ -9,6 +9,6 @@ public class Main {
         double result = Math.sqrt((a*a + (b*b)));
         JOptionPane.showMessageDialog(null,"The hypotenuse is: " + result);
 
-        //a square = 25 b square = 25 hypothenuse = c square (hypotenuse)
+        //a square = 25 b square = 25 hypothenuse = c square (hypotenuse square)
        }
     }
